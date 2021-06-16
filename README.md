@@ -1,6 +1,6 @@
 # Recommend_Book
 
-!image()[1209-BKS-COVER_Sub01-articleLarge](https://user-images.githubusercontent.com/68369597/122200080-55940380-ceb8-11eb-8b2c-91135dd30906.gif)
+![image][1209-BKS-COVER_Sub01-articleLarge](https://user-images.githubusercontent.com/68369597/122200080-55940380-ceb8-11eb-8b2c-91135dd30906.gif)
 
 # Introduction
 
